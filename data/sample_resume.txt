@@ -1,0 +1,51 @@
+John Doe
+Software Developer | Full-Stack Web Developer
+Email: johndoe@email.com | Phone: +91-9876543210
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+SUMMARY
+Passionate and detail-oriented web developer with 2 years of experience in building
+responsive web applications using modern technologies. Proficient in front-end and
+back-end development with a strong foundation in JavaScript, React, and Node.js.
+
+EDUCATION
+Bachelor of Technology in Computer Science
+VIT University, Vellore | 2020 - 2024 | CGPA: 8.5
+
+TECHNICAL SKILLS
+Languages: JavaScript, Python, HTML, CSS, TypeScript, SQL
+Frameworks: React, Node.js, Express.js, Django, Bootstrap
+Databases: MongoDB, MySQL, PostgreSQL
+Tools: Git, GitHub, Docker, VS Code, Postman, Webpack
+Cloud: AWS (EC2, S3), Firebase
+Design: Figma, Responsive Design
+
+EXPERIENCE
+Web Developer Intern | TechCorp Solutions | Jan 2023 - Jun 2023
+- Developed responsive web applications using React and Node.js
+- Built RESTful APIs for backend services
+- Collaborated with UI/UX team to implement user-friendly interfaces
+- Deployed applications on AWS EC2 instances
+- Used Git for version control and code review
+
+Junior Developer | CodeBase Inc | Jul 2023 - Present
+- Full-stack web development using React, TypeScript and MongoDB
+- Implemented CI/CD pipelines using Docker and Jenkins
+- Conducted cross-browser testing and performance optimization
+- Built GraphQL APIs for efficient data fetching
+
+PROJECTS
+E-Commerce Platform
+- Built a full-stack e-commerce website using React, Node.js, and MongoDB
+- Implemented user authentication, product search, and payment integration
+- Deployed on AWS with Docker containerization
+
+Portfolio Website
+- Designed and developed a responsive portfolio using HTML, CSS, and JavaScript
+- Implemented smooth animations and SEO best practices
+- Hosted on GitHub Pages with custom domain
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner
+- Meta Front-End Developer Certificate
+- MongoDB Certified Developer

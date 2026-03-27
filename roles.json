@@ -1,0 +1,45 @@
+{
+  "Web Developer": {
+    "description": "Builds and maintains websites.",
+    "required_skills": [
+      "html", "css", "javascript", "react", "nodejs",
+      "git", "responsive design", "api"
+    ],
+    "experience_keywords": [
+      "web development", "frontend", "backend", "website", "deployment"
+    ]
+  },
+
+  "Data Analyst": {
+    "description": "Analyzes data to extract insights.",
+    "required_skills": [
+      "python", "sql", "excel", "pandas",
+      "numpy", "data visualization", "statistics", "matplotlib"
+    ],
+    "experience_keywords": [
+      "data analysis", "reporting", "dashboard", "insights"
+    ]
+  },
+
+  "Software Engineer": {
+    "description": "Develops software systems.",
+    "required_skills": [
+      "python", "java", "c++", "data structures",
+      "algorithms", "oop", "git", "debugging"
+    ],
+    "experience_keywords": [
+      "programming", "coding", "software development", "testing"
+    ]
+  },
+
+  "Machine Learning Engineer": {
+    "description": "Builds machine learning models.",
+    "required_skills": [
+      "python", "machine learning", "pandas", "numpy",
+      "scikit-learn", "regression", "classification", "statistics"
+    ],
+    "experience_keywords": [
+      "model training", "prediction", "data preprocessing"
+    ]
+  }
+}
