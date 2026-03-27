@@ -272,4 +272,4 @@ Simply add an entry to `roles.json`:
 
 ---
 
-> Built with ❤️ as a BYOP (Bring Your Own Project) submission for CSA2001.
+> Built a BYOP (Bring Your Own Project) submission for CSA2001.
