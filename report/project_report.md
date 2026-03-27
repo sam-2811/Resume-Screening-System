@@ -4,7 +4,7 @@
 ---
 
 **Course:** CSA2001 — Artificial Intelligence  
-**Semester:** Second Semester  
+**Semester:** Winter_Semester_2025-26  
 **Name:** Saumya Agarwal   
 **Registration No:** 25BCE10298   
 **Faculty:** J. Subash Chandra Bose   
