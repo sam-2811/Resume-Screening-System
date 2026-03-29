@@ -3,7 +3,7 @@
 > A CLI-based AI-powered resume screening tool that evaluates resumes against predefined job role requirements using NLP techniques (tokenization, keyword matching) and simple scoring logic.
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://python.org)
-[![Course](https://img.shields.io/badge/Course-CSA2001-orange)](https://vitap.ac.in)
+[![Course](https://img.shields.io/badge/Course-CSA2001-orange)]
 
 ---
 
@@ -265,10 +265,10 @@ Simply add an entry to `roles.json`:
 
 ## 👤 Author
 
-- **Name**: [Your Name]
-- **Registration No**: [Your Reg No]
+- **Name**: Saumya Agarwal
+- **Registration No**: 25BCE10298
 - **Course**: CSA2001 — Artificial Intelligence
-- **University**: VIT AP University
+- **University**: VIT Bhopal University
 
 ---
 
